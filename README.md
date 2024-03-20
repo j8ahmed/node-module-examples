@@ -4,3 +4,5 @@
 * [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) : book where read about some topics.
 * https://www.nearform.com/blog/node-js-developer-certification-what-to-expect/ : nearform blog entry about the node certification process.
 * https://dev.to/kryz/node-js-certification-first-impressions-21a1 : impressions for the certification process.
+
+- [Original GitHub Repo](https://github.com/amcereijo/node-certification)
